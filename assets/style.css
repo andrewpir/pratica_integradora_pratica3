@@ -1,0 +1,17 @@
+main {
+    display: block;
+    border-radius: 8px;
+    background: #a1a1a1;
+    text-align: center;
+}
+
+img {
+    border-radius: 8px;
+    max-width: 50%;
+    margin: 10px;
+}
+
+p {
+    background-color: white;
+    font-size: larger;
+}
